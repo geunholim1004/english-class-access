@@ -1,0 +1,16 @@
+{
+ "users": [
+  {
+   "id": "t.danel",
+   "name": "Daniel Yulin",
+   "box": {
+    "iter": 250000,
+    "salt": "iIXnFjfg5/ECu5Uu1INnOg==",
+    "iv": "fCJKlSM7AJv5hnOd",
+    "ct": "VxHe96loxlC3SZaIBX1i+dsZ+fV2aosBEnnTi4aHVFFhfj+KQEOOstBQ1TpKc88bM4qNSkadPQXAW+vnyEgtIUesMyBDJOG0CVLzE2KDjtZlinn1MwFze5YPfu6jZJD3wn0wEJ/o5iT0i9eFuw=="
+   },
+   "status": "invited",
+   "invitedAt": "2026-11-22T06:45:35.499Z"
+  }
+ ]
+}
