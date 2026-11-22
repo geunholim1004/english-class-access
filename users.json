@@ -17,12 +17,13 @@
    "name": "edward1004",
    "box": {
     "iter": 250000,
-    "salt": "vz6PcZMKckgMqLeHGGY8QQ==",
-    "iv": "IlzJ6ftQxRgH868j",
-    "ct": "VejD7zoPBjv4ykHKzydbBwAmSnbvT9AO29CvZM2h7gwMs0tvdHy75eXD3xN6lnlhuQR76RshQuj+IjcVTiL2RNXU1iYYdMVGDpwX9ByCUWoELZiW8Cd70ojXVA15WgtlSYWXbzFPEHDguowCKQ=="
+    "salt": "u6PeGHnMdy+luusvAmpnEQ==",
+    "iv": "awO1HnckufsU4jMk",
+    "ct": "8Tj0N98xbePXPBgk7CWN90oPwGiBap9+OGLH+inZLwRRgTB4tyNgXDEviMNMWxpSHrucVrFVW6bgK1m0DqbFARaYh81trSUsmwukXBDeZmayS/jZSJGrt2GoubTz8m8GzhNq1Ke0MDIQwq7fOw=="
    },
-   "status": "invited",
-   "invitedAt": "2026-11-22T07:46:03.365Z"
+   "status": "active",
+   "invitedAt": "2026-11-22T07:46:03.365Z",
+   "registeredAt": "2026-11-22T07:47:41.006Z"
   }
  ]
 }
