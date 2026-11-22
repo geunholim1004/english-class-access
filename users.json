@@ -11,6 +11,18 @@
    },
    "status": "invited",
    "invitedAt": "2026-11-22T06:45:35.499Z"
+  },
+  {
+   "id": "edward100",
+   "name": "Edward",
+   "box": {
+    "iter": 250000,
+    "salt": "//nL1gvdLBAVYLsEVhaQjA==",
+    "iv": "cUvr1vGlzsFxoMo9",
+    "ct": "ePTlqOzsqkRuaeg83b+QZuFLptTOantEIMI2fKIblC3Y2WeZcvAQr/Jgl68yICmDm3QS4Ivp00dGc0rgWymduNtarBdGzFq6Bj9su7TGtJNCCumm9XYGaefgZ49C/CGpoYB1CGGlabC6mt5KKg=="
+   },
+   "status": "invited",
+   "invitedAt": "2026-11-22T06:47:01.191Z"
   }
  ]
 }
