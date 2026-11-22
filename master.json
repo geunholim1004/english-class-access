@@ -1,0 +1,13 @@
+{
+ "id": "edward100",
+ "box": {
+  "iter": 600000,
+  "salt": "DX0bjUwX/V7drgC7vnJeFw==",
+  "iv": "60gUEMbb6r8BzET6",
+  "ct": "G5BOST1aO3ox8gTGriKayEpki/SdOmnxfdbnTQDGOBwkCZjwEbOuCpDnABEHNQ3bxditlvDHiox4uAeL2ECjjiXszqjw7b/2W83cQfyh3UtuJaLmqiVkFyveZq2QLf4S1lysJxxZC5mUSOX0ZA=="
+ },
+ "owner": "geunholim1004",
+ "repo": "english-class-calendar",
+ "privRepo": "english-class-private",
+ "at": "2026-11-22T07:20:39.611Z"
+}
