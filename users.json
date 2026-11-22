@@ -17,12 +17,13 @@
    "name": "Edward",
    "box": {
     "iter": 250000,
-    "salt": "//nL1gvdLBAVYLsEVhaQjA==",
-    "iv": "cUvr1vGlzsFxoMo9",
-    "ct": "ePTlqOzsqkRuaeg83b+QZuFLptTOantEIMI2fKIblC3Y2WeZcvAQr/Jgl68yICmDm3QS4Ivp00dGc0rgWymduNtarBdGzFq6Bj9su7TGtJNCCumm9XYGaefgZ49C/CGpoYB1CGGlabC6mt5KKg=="
+    "salt": "cq3j22wsqWnCPmTKqw4URg==",
+    "iv": "WSXL4yw5+KUwrzT+",
+    "ct": "r+v48K2M1GF6Cmsk5X6SHx4KN78wnrvgfEZg+ncKHldMYeHfF7aKOz/VSm25/ISYZuwc0MbyQGlBJnVJkXK0yP3M3NCOGn6o7vVFoJszLo9qVayiRydhqx0Gn7efCb1vTuQR3ImW08VjLpiFow=="
    },
-   "status": "invited",
-   "invitedAt": "2026-11-22T06:47:01.191Z"
+   "status": "active",
+   "invitedAt": "2026-11-22T06:47:01.191Z",
+   "registeredAt": "2026-11-22T06:48:03.886Z"
   }
  ]
 }
