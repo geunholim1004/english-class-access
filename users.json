@@ -5,12 +5,13 @@
    "name": "Daniel Yulin",
    "box": {
     "iter": 250000,
-    "salt": "iIXnFjfg5/ECu5Uu1INnOg==",
-    "iv": "fCJKlSM7AJv5hnOd",
-    "ct": "VxHe96loxlC3SZaIBX1i+dsZ+fV2aosBEnnTi4aHVFFhfj+KQEOOstBQ1TpKc88bM4qNSkadPQXAW+vnyEgtIUesMyBDJOG0CVLzE2KDjtZlinn1MwFze5YPfu6jZJD3wn0wEJ/o5iT0i9eFuw=="
+    "salt": "jraXm1pPiEXAI5jzwSY9eg==",
+    "iv": "qmHFGnRbFa1p1d7+",
+    "ct": "vsCk7uQiHLgTsMqnKSweFXVZY6As1Q/F5eLSKGjJEItMajCxECpxAfE2f+rLa/023TYv4i4juZ6xTvzv+sttvU+K++y85yjFuATRjR8EaAOEqNTCbVpJTRH3SefVXulV8vYvQxiOnLnyPH5Clg=="
    },
-   "status": "invited",
-   "invitedAt": "2026-11-22T06:45:35.499Z"
+   "status": "active",
+   "invitedAt": "2026-11-22T06:45:35.499Z",
+   "registeredAt": "2026-11-23T13:52:14.457Z"
   },
   {
    "id": "edward1004",
