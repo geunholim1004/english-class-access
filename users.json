@@ -31,13 +31,13 @@
    "name": "uihee",
    "box": {
     "iter": 250000,
-    "salt": "mzHMvDV0p6Dw+ZcHo/qF4Q==",
-    "iv": "8o0Qo2QfWRGnfUhh",
-    "ct": "XpTj3bkblw4xXUtqsPkR1u7u2H5v0OKzP4JjVa6KGuT4kHPXKQmg3CmzulGYc8BBSSve7Wp7UvL+15ms5IXFUGHpChXOxv9X6/WJv6dd2YoSdBUEjsVW3fvDQ7NEzSgJ9Crrv8ilwfafQ5bIQQ=="
+    "salt": "bdOfvWTh/FC/uUtBdyjPFg==",
+    "iv": "21yS0Ow1c2BnEJBm",
+    "ct": "nqzJY+gslrD0l0zcwIg6K8x0QvUOJt7fOFoyK6zJDPrUOp0MvfEXKEHgieQ4yzpTojq9kylw7LontPD5ous+6dtZtiHKF+OSjWBpZPIJ+I/zPFuO4fwJ5uCwIB+TN+lyITtdMuHxxbtlkIiRcg=="
    },
    "status": "active",
    "invitedAt": "2026-11-25T13:37:04.125Z",
-   "registeredAt": "2026-11-25T13:39:45.800Z"
+   "registeredAt": "2026-11-25T13:39:47.335Z"
   }
  ]
 }
