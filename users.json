@@ -25,6 +25,18 @@
    "status": "active",
    "invitedAt": "2026-11-22T07:46:03.365Z",
    "registeredAt": "2026-11-22T07:47:41.006Z"
+  },
+  {
+   "id": "uihee",
+   "name": "uihee",
+   "box": {
+    "iter": 250000,
+    "salt": "qyiyYlsCSMz1YSZhHZ1cfg==",
+    "iv": "BZvZSU0qWaK995uQ",
+    "ct": "VkFKwoyCvB2dc0b9nQcBTFMQoEP3naEZwNT54ISdiLo2prVp21E6QtPdM6dwfLIYF+4/GFme1NTM1d5JEMEc6vBoeSGVJH8p313CuoN8Cq1sFVGhiHGwGaWvGz5Lprhi3fkF0JISDbdMrwxbgg=="
+   },
+   "status": "invited",
+   "invitedAt": "2026-11-25T13:37:04.125Z"
   }
  ]
 }
