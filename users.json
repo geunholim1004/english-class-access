@@ -90,13 +90,14 @@
    "role": "teacher",
    "box": {
     "iter": 250000,
-    "salt": "Ad6Cr0SMfRoQu4Wr7MDevg==",
-    "iv": "NAremCwUGAx/yHBy",
-    "ct": "ZUItFnDeDwv7byz59QIJMAeMTsqZCx7UB5ELMywG1fjI1OPbCpkE0s5KMNYYIzaWurem45wxRkqV63vY2bzjECmzFsf1XmoX0W87uknfVarTPzsQGYG0C3tnM0y1f5lPpsoSq/IN0rF6zehxnQ=="
+    "salt": "No4hQmkAp60udkJ9o3zwtQ==",
+    "iv": "KPdmVZzgTZ0wK67x",
+    "ct": "BwJDoWyWnl6lYPe3J8L8CW9+jOrC1Fijncg2G7mQlP4sTL8WErK/VSAZapvoQQrQIprlhaHKWmmKWv1cR3YH/X18BuaQa3JJ4wOF0VqAjVp0rW20lMO5++nScYJAy5m51cGJvmMp0zy7AA0+ow=="
    },
-   "status": "invited",
+   "status": "active",
    "invitedAt": "2026-11-28T14:16:52.123Z",
-   "by": "master"
+   "by": "master",
+   "registeredAt": "2026-11-28T14:17:48.420Z"
   }
  ]
 }
