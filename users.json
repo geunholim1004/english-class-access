@@ -99,20 +99,6 @@
    "invitedAt": "2026-11-28T14:16:52.123Z",
    "by": "master",
    "registeredAt": "2026-11-28T14:17:48.420Z"
-  },
-  {
-   "id": "yesul",
-   "name": "yesul.lim",
-   "role": "student",
-   "box": {
-    "iter": 250000,
-    "salt": "zbZRZNhkdf/9m7SXcW3ASA==",
-    "iv": "nONxwLHJ1f4Jk2ah",
-    "ct": "1fXDTkWek3iqIVOBV5Y7q1qHRqjKGVDPrCUp4Dk8/7iFrDIcxK6/cAuFeuGUgGxovFE9VKzQCYVfGEv0lYDfK0ng7TcV0HJmUm5QdVaVnPGL6VNMP2Eb6Y4jTDR8xkxe23zYbgCQMxJG32UE7A=="
-   },
-   "status": "invited",
-   "invitedAt": "2026-11-28T15:29:23.993Z",
-   "by": "master"
   }
  ]
 }
