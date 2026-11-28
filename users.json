@@ -75,13 +75,14 @@
    "role": "student",
    "box": {
     "iter": 250000,
-    "salt": "5jnvc9eYKqUuoVr/1mGNHA==",
-    "iv": "0K3UkQ9y7PhP96R8",
-    "ct": "3xc9JCoIMd4d5b7EFiyWOCin9WqwKMabkMeHvVb5kwUuRgg6LvAOGtbYvKeTchYi/T9MZywALh9YDaKkHt+0mr5U1u7m8HTiiPkGHw6iA1Pfwcj07tDym2GXFDpSbR8QMboiZu/6d51ZUjd/fw=="
+    "salt": "HGY2Zqb3KtSGZDHGPNSghA==",
+    "iv": "HrgvB48G9a2HqThz",
+    "ct": "HZ4+2T6QO/4I6OCW/GBEeTMsq+v+KTTwV5fWbnOaLVtgTvoymRIANsxntizu7bZp53DEgwXfCanzhAfu63gnmy46gmzNS8rsTbt+3OEjb4YliR1BB3rRlsnz4ahwxaYl2tLXN9YHj250wDvO5g=="
    },
-   "status": "invited",
+   "status": "active",
    "invitedAt": "2026-11-28T13:48:52.730Z",
-   "by": "master"
+   "by": "master",
+   "registeredAt": "2026-11-28T13:49:52.961Z"
   }
  ]
 }
