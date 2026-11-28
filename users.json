@@ -68,6 +68,20 @@
    "invitedAt": "2026-11-28T13:14:06.256Z",
    "by": "master",
    "registeredAt": "2026-11-28T13:18:15.211Z"
+  },
+  {
+   "id": "student",
+   "name": "student",
+   "role": "student",
+   "box": {
+    "iter": 250000,
+    "salt": "5jnvc9eYKqUuoVr/1mGNHA==",
+    "iv": "0K3UkQ9y7PhP96R8",
+    "ct": "3xc9JCoIMd4d5b7EFiyWOCin9WqwKMabkMeHvVb5kwUuRgg6LvAOGtbYvKeTchYi/T9MZywALh9YDaKkHt+0mr5U1u7m8HTiiPkGHw6iA1Pfwcj07tDym2GXFDpSbR8QMboiZu/6d51ZUjd/fw=="
+   },
+   "status": "invited",
+   "invitedAt": "2026-11-28T13:48:52.730Z",
+   "by": "master"
   }
  ]
 }
