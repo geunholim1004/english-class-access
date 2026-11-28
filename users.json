@@ -52,6 +52,20 @@
    "status": "invited",
    "invitedAt": "2026-11-28T13:12:25.520Z",
    "by": "master"
+  },
+  {
+   "id": "john.lim",
+   "name": "John.lim",
+   "role": "student",
+   "box": {
+    "iter": 250000,
+    "salt": "jBNRIs4gC7AZ3uSVltB5Sg==",
+    "iv": "Z3tpnsWC719BQF5r",
+    "ct": "foES9FtolWhRtdyPaSW61lZjJyhM4/qeMs+Bz9CnOf56eaAhJT0U56vLHldU0UJMnxQ1pyd3uzZ0hEZdYAoJEWMQIbxvH2UlmHUZYGeOUXXsNmxiWq+3fjqKuw8e1f4Kuag8stOV9uBZwaMDvA=="
+   },
+   "status": "invited",
+   "invitedAt": "2026-11-28T13:13:11.488Z",
+   "by": "master"
   }
  ]
 }
