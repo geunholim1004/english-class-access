@@ -106,13 +106,14 @@
    "role": "student",
    "box": {
     "iter": 250000,
-    "salt": "l/ocToT9TYH4Ftp4+UFxjQ==",
-    "iv": "bRk3AnHTTUc3thU7",
-    "ct": "U8Q9Ya7A9tU4Z3Acl55tYmpIjzEpofKs9oU3LTjcUzNCeMSu9DWhY+l3bkGcsVL7nLG38eE5z959uMahbiY5xa2uwfz0u9zaO0v2HYZMbs3mRC9eyF2TeW3+qcztXzAseo7sTC2aB3CTAKkA/A=="
+    "salt": "0wRuOov5/FkEG5cGDiLmdA==",
+    "iv": "7qk3xv7bRkoP+tWb",
+    "ct": "nZE5EjhD8+A5mMpyj/W5ZFpUZ81IbpfmW3cudxw7iZ5G17qqTgksUa9OPLe0gOIGnG11HzTIacmD2XqRvf76akv6He7a6UoyJzj7UR46p9WljdsROz8/wsfzpEtC0CK6yflgvZbki4U9GANmNg=="
    },
-   "status": "invited",
+   "status": "active",
    "invitedAt": "2026-11-28T15:31:55.025Z",
-   "by": "master"
+   "by": "master",
+   "registeredAt": "2026-11-28T15:33:19.142Z"
   }
  ]
 }
