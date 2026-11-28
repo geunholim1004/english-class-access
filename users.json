@@ -37,7 +37,8 @@
    },
    "status": "active",
    "invitedAt": "2026-11-25T13:37:04.125Z",
-   "registeredAt": "2026-11-25T13:39:47.335Z"
+   "registeredAt": "2026-11-25T13:39:47.335Z",
+   "role": "student"
   },
   {
    "id": "john.lim",
