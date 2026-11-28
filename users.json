@@ -40,20 +40,6 @@
    "registeredAt": "2026-11-25T13:39:47.335Z"
   },
   {
-   "id": "fastfastgun",
-   "name": "Daniel",
-   "role": "student",
-   "box": {
-    "iter": 250000,
-    "salt": "33N+3MXNHvqbzJS3VtdM6g==",
-    "iv": "pkR+FtbIIqZfs26R",
-    "ct": "eOiQXx7zkHXW0Ha/7veQxjPiLjVMt0QpU+XFaixPPcEpRaCoBA2ufJIanHWEqGEEjegD3RwaZu1ynyYl9AN1pLaSSp9yLXr421iPqRsjZrItzaYQsNaRV2+ksKhUg8Zua9BDLQr781/FpOVifg=="
-   },
-   "status": "invited",
-   "invitedAt": "2026-11-28T13:13:37.265Z",
-   "by": "master"
-  },
-  {
    "id": "john.lim",
    "name": "John.lim",
    "role": "student",
