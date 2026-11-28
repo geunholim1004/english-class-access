@@ -83,6 +83,20 @@
    "invitedAt": "2026-11-28T13:48:52.730Z",
    "by": "master",
    "registeredAt": "2026-11-28T13:49:52.961Z"
+  },
+  {
+   "id": "t.edward",
+   "name": "T.edward",
+   "role": "teacher",
+   "box": {
+    "iter": 250000,
+    "salt": "Ad6Cr0SMfRoQu4Wr7MDevg==",
+    "iv": "NAremCwUGAx/yHBy",
+    "ct": "ZUItFnDeDwv7byz59QIJMAeMTsqZCx7UB5ELMywG1fjI1OPbCpkE0s5KMNYYIzaWurem45wxRkqV63vY2bzjECmzFsf1XmoX0W87uknfVarTPzsQGYG0C3tnM0y1f5lPpsoSq/IN0rF6zehxnQ=="
+   },
+   "status": "invited",
+   "invitedAt": "2026-11-28T14:16:52.123Z",
+   "by": "master"
   }
  ]
 }
